@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # 多账号配置
 ACCOUNTS = [
-    {"username": "xxxx@qq.com", "password": "xxxx+"},
+    {"username": "226390686@qq.com", "password": "20220411x+"},
 ]
 
 # 步数范围配置
